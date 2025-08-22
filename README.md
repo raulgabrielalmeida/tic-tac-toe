@@ -43,6 +43,6 @@ git push origin minha-feature
 
 - 🔗 Para mais detalhes, veja a documentação oficial: [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-##📝 Licença
+## 📝 Licença
 
 Este projeto está sob a licença MIT.
